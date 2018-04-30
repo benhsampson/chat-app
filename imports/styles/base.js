@@ -12,9 +12,7 @@ export default `
 
   body {
     cursor: default;
-    font-family: -apple-system, BlinkMacSystemFont, Lato, 'Segoe UI', Roboto, Oxygen,
-        Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', Arial, sans-serif,
-        "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family: 'Nunito', sans-serif;
     color: rgba(0,0,0,0.9);
     font-size: 16px;
     line-height: 1.5;
